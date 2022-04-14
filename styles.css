@@ -1,0 +1,228 @@
+                    /* TOP */
+body    {
+        margin: 0;
+        }
+.top-container {
+        background-color: white;
+        }
+.pillow {
+        position: relative;
+        top: 10px;
+        width: 50px;
+        margin-right: 15px;
+        }
+h1      {
+        color: #343a40;
+        font-family: 'Courgette', cursive;
+        font-weight: lighter;
+        font-size: 2.5rem;
+        padding-left: 80px;
+        margin: 10px 0 10px 0;
+        }
+.top_img {
+        width:100%;
+        }
+                /* DESCRIBER */
+h2      {
+        line-height: 2rem;
+        font-family: 'Courgette', cursive;
+        font-weight: normal;
+        font-size: 2rem;
+        margin: 40px 40px 0px 40px;
+        text-align: center;
+        }
+h3      {
+        font-family: 'Mrs Saint Delafield', cursive;
+        font-weight: lighter;
+        font-size: 3rem;
+        margin: 10px auto 10px auto;
+        text-align: center;
+        }
+table   {
+        width: 80%;
+        margin: 30px auto 80px auto;
+        text-align: justify;
+        }
+td      {
+        padding: 0px 15px 0px 15px;
+        line-height: 1.5rem;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 0.8rem;
+        width: 50%;
+        }
+p       {
+        margin: 0;
+        }
+.vl     {
+        border-left: 1px solid gray;
+        padding: 0;
+        width: 0;
+        }
+                /* ARTICLES */
+#feat   {
+        background-color: #343a40;
+        color: white;
+        padding: 20px;
+        margin: 0;
+        }
+#our_cat{
+        background-color: #343a40;
+        color: white;
+        padding: 0px 20px 20px 20px;
+        margin: 0;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 1rem;
+        letter-spacing: 0.1em;
+        text-align: center;
+        }
+                /* VIDEOS */
+.videos {
+        text-align: center;
+        position: relative;
+        }
+video   {
+        padding: 40px 30px 40px 30px;
+        }
+#first  {
+        color: #343a40;
+        background-color: hsla(210, 10%, 80%, 0.3);
+        padding: 10px;
+        position: absolute;
+        left: 22%;
+        bottom: 20%;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 2rem;
+        letter-spacing: 0.1em;
+        text-align: center;
+        text-decoration: none;
+        }
+#second {
+        color: #343a40;
+        background-color: hsla(210, 10%, 80%, 0.3);
+        padding: 10px;
+        position: absolute;
+        left: 42.5%;
+        bottom: 20%;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 2rem;
+        letter-spacing: 0.1em;
+        text-align: center;
+        text-decoration: none;
+        }
+#third  {
+        color: #343a40;
+        background-color: hsla(210, 10%, 80%, 0.3);
+        padding: 10px;
+        position: absolute;
+        left: 69%;
+        bottom: 20%;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 2rem;
+        letter-spacing: 0.1em;
+        text-align: center;
+        text-decoration: none;
+        }
+                /* BOTTOM */
+.bottom {
+        background-color: gray;
+        width: 100%;
+        height: 400px;
+        position: relative;
+        }
+#contact{
+        color: white;
+        padding: 50px 30px 30px 30px;
+        margin: 0;
+        }
+#hours, #city  {
+        color: white;
+        padding: 0px 20px 20px 20px;
+        margin: 0;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 1rem;
+        letter-spacing: 0.1em;
+        text-align: center;
+        }
+#mail   {
+        color: white;
+        font-family: 'Mrs Saint Delafield', cursive;
+        font-size: 1em;
+        letter-spacing: 0.1em;
+        text-decoration: none;
+        }
+#mail:before {
+        content: '\2709 ';
+        }
+#mail:hover  {
+        color: #1d3557;
+        font-weight: bold;
+        }
+.footer {
+        text-align: center;
+        color: #343a40;
+        letter-spacing: 0.1em;
+        margin: 5px auto 5px auto;
+        }
+#insta  {
+        position: absolute;
+        top: 30px;
+        color: white;
+        padding: 30px 20px 20px 30px;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 1rem;
+        letter-spacing: 0.1em;
+        text-align: center;
+        text-decoration: none;
+        }
+#insta:hover  {
+        color: #1d3557;
+        font-weight: bold;
+        }
+#insta1 {
+        position: absolute;
+        top: 100px;
+        left: 30px;
+        }
+#insta2 {
+        position: absolute;
+        top: 100px;
+        left: 140px;
+        }
+
+#insta3 {
+        position: absolute;
+        top: 220px;
+        left: 30px;
+        }
+#insta4 {
+        position: absolute;
+        top: 220px;
+        left: 140px;
+        }
+#hours, #city  {
+        color: white;
+        padding: 0px 20px 20px 20px;
+        margin: 0;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 1rem;
+        letter-spacing: 0.1em;
+        text-align: center;
+        }
+.navigate{
+        position: absolute;
+        top: 30px;
+        right: 30px;
+        }
+.nav  {
+        color: white;
+        text-align: right;
+        font-size: 1.5rem;
+        line-height: 4rem;
+        text-decoration: none;
+        }
+.nav:hover  {
+        color: #1d3557;
+        }
+.footer {
+        margin: 10px;
+        }
